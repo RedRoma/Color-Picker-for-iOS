@@ -27,6 +27,7 @@
 
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 typedef void(^renderToContext)(CGContextRef, CGRect);
 

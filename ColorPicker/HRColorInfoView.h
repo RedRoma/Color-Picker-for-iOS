@@ -27,6 +27,7 @@
 
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @protocol HRColorInfoView
 @property (nonatomic, strong) UIColor *color;
