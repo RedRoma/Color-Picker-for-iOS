@@ -18,12 +18,12 @@ FOUNDATION_EXPORT const unsigned char ColorPickerVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <ColorPicker/PublicHeader.h>
 
 
-import "ColorPicker.h"
-import "HRBrightnessCursor.h"
-import "HRBrightnessSlider.h"
-import "HRColorCursor.h"
-import "HRColorInfoView.h"
-import "HRColorMapView.h"
-import "HRColorPickerView.h"
-import "HRHSVColorUtil.h"
-import "UIImage+CoreGraphics.h"
+#import "ColorPicker.h"
+#import "HRBrightnessCursor.h"
+#import "HRBrightnessSlider.h"
+#import "HRColorCursor.h"
+#import "HRColorInfoView.h"
+#import "HRColorMapView.h"
+#import "HRColorPickerView.h"
+#import "HRHSVColorUtil.h"
+#import "UIImage+CoreGraphics.h"
