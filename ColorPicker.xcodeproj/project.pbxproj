@@ -26,7 +26,6 @@
 		DE6C27C71D96CBF400BB1D33 /* HRHSVColorUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = DE6C27B61D96CBF400BB1D33 /* HRHSVColorUtil.m */; };
 		DE6C27C91D96CBF400BB1D33 /* UIImage+CoreGraphics.h in Headers */ = {isa = PBXBuildFile; fileRef = DE6C27B81D96CBF400BB1D33 /* UIImage+CoreGraphics.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DE6C27CA1D96CBF400BB1D33 /* UIImage+CoreGraphics.m in Sources */ = {isa = PBXBuildFile; fileRef = DE6C27B91D96CBF400BB1D33 /* UIImage+CoreGraphics.m */; };
-		DE6C27CC1D96CC1F00BB1D33 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DE6C27CB1D96CC1F00BB1D33 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -219,6 +218,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = DE6C27851D96CBB400BB1D33;
@@ -237,7 +237,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE6C27CC1D96CC1F00BB1D33 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
